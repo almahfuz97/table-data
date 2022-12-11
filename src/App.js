@@ -65,7 +65,7 @@ const App = () => {
 
   return (
     <div>
-      <div className="ag-theme-alpine" style={{ width: "100%", height: '100%' }}>
+      <div className="ag-theme-alpine" style={{ width: "100%", height: 500 }}>
         <AgGridReact
           ref={gridRef}
           rowData={rowData}
