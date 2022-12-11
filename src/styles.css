@@ -1,0 +1,12 @@
+.ag-body-viewport [col-id=''] {
+    background-color: white;
+
+}
+
+.status-false {
+    background-color: red !important;
+}
+
+.status-true {
+    background-color: green !important;
+}
